@@ -2,6 +2,8 @@
 It is an application designed to help owners or agencies with real estate management.
  Down below i uploaded some images
 
+**This app was finished in 01.2022**
+
 ### Images
 
 Main page
