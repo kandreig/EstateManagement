@@ -1,5 +1,8 @@
 # Estate Management
 It is an application designed to help owners or agencies with real estate management.
+
+When I created this application I wanted to practice working with databases. I used Repository Pattern.
+
  Down below i uploaded some images
 
 **This app was finished in 01.2022**
